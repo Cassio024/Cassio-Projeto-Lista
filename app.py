@@ -45,4 +45,4 @@ class AppListaTarefas:
 
 root = tk.Tk()
 app = AppListaTarefas(root)
-root.mainloop()
+root.mainloop() 
